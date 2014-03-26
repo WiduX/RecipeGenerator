@@ -1,6 +1,6 @@
 package net.widux.recipegen;
 
-public class GUI
+public class GUIMain
 {
 	
 	private JFrame window;
