@@ -1,0 +1,50 @@
+{"name": "Crafting"},
+{"texture": "/net/widux/recipegen/textures/crafttable.png"},
+{"texture-extended": "/net/widux/recipegen/textures/crafttable-output.png"},
+{"slots":
+	[
+		{
+			"x": "5",
+			"y": "5"
+		},
+		{
+			"x": "23",
+			"y": "5"
+		},
+		{
+			"x": "41",
+			"y": "5"
+		},
+		{
+			"x": "5",
+			"y": "23"
+		},
+		{
+			"x": "23",
+			"y": "23"
+		},
+		{
+			"x": "41",
+			"y": "23"
+		},
+		{
+			"x": "5",
+			"y": "41"
+		},
+		{
+			"x": "23",
+			"y": "41"
+		},
+		{
+			"x": "41",
+			"y": "41"
+		}
+	],
+"slots-extended":
+	[
+		{
+			"x": "99",
+			"y": "23"
+		}
+	]
+}

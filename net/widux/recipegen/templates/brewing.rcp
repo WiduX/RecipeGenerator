@@ -1,0 +1,22 @@
+{"name": "Brewing"},
+{"texture": "/net/widux/recipegen/textures/brewing.png"},
+{"slots":
+	[
+		{
+			"x": "28",
+			"y": "6"
+		},
+		{
+			"x": "5",
+			"y": "35"
+		},
+		{
+			"x": "28",
+			"y": "42"
+		},
+		{
+			"x": "51",
+			"y": "35"
+		}
+	]
+}

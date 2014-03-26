@@ -1,0 +1,22 @@
+{"name": "Furnace"},
+{"texture": "/net/widux/recipegen/textures/furnace.png"},
+{"texture-extended": "/net/widux/recipegen/textures/furnace-output.png"},
+{"slots":
+	[
+		{
+			"x": "5",
+			"y": "5"
+		},
+		{
+			"x": "5",
+			"y": "41"
+		}
+	],
+"slots-extended":
+	[
+		{
+			"x": "65",
+			"y": "23"
+		}
+	]
+}
